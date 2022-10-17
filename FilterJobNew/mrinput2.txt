@@ -1,0 +1,199 @@
+1861452	Mortgage	"Bayview Loan Servicing, LLC"	MN
+1859891	Debt collection	"Convergent Resources, Inc."	IL
+1861161	Consumer Loan	Ally Financial Inc.	TX
+1861175	Bank account or service	Ally Financial Inc.	TN
+1860329	Consumer Loan	Ally Financial Inc.	OH
+1860803	Debt collection	Transworld Systems Inc.	DC
+1859886	Consumer Loan	Ally Financial Inc.	NY
+1860496	Debt collection	"Convergent Resources, Inc."	OH
+1857949	Consumer Loan	Ally Financial Inc.	CT
+1858253	Credit reporting	First Advantage Corporation	NC
+1859146	Credit card	Amex	CA
+1858039	Consumer Loan	Speedy Cash Holdings	TX
+1858744	Debt collection	"Hunter Warfield, Inc."	OH
+1859485	Debt collection	"Nicholas Financial, Inc."	PA
+1858262	Consumer Loan	"Westlake Services, LLC"	FL
+1859356	Debt collection	"Palm Beach Credit Adjustors, Inc"	FL
+1858355	Debt collection	Transworld Systems Inc.	CA
+1859566	Debt collection	"Meridian Financial Services, Inc."	CT
+1859250	Debt collection	First Federal Credit Control	FL
+1859013	Debt collection	"Choice Recovery, Inc."	IL
+1858805	Mortgage	"Bayview Loan Servicing, LLC"	NJ
+1858120	Credit reporting	"Credit Karma, Inc."	FL
+1856567	Debt collection	"I.C. System, Inc."	NC
+1857126	Debt collection	Stellar Recovery Inc.	MD
+1857396	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SC
+1856303	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SD
+1857682	Debt collection	"American Adjustment Bureau, Inc"	CT
+1856143	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SC
+1857570	Credit card	Amex	NY
+1855951	Debt collection	United Revenue Corporation	TX
+1857770	Debt collection	Caine & Weiner Co. Inc.	NY
+1856127	Mortgage	"Bayview Loan Servicing, LLC"	CA
+1857523	Debt collection	"Maury Cobb, Attorney at Law, LLC"	CO
+1857582	Credit reporting	"Fidelity National Information Services, Inc. (FNIS)"	NJ
+1856092	Mortgage	Freedom Mortgage	TX
+1857119	Debt collection	"Dynamic Recovery Solutions, LLC"	WA
+1856284	Credit reporting	Equifax	VA
+1857504	Credit reporting	Equifax	MO
+1857220	Credit reporting	Equifax	CA
+1857674	Credit reporting	Equifax	NC
+1857320	Money transfers	MoneyGram	IL
+1856274	Credit reporting	Equifax	CO
+1857723	Debt collection	"Hunter Warfield, Inc."	MN
+1857419	Debt collection	First Federal Credit Control	FL
+1856044	Credit reporting	Equifax	NC
+1855787	Debt collection	"URS Holding, LLC"	IL
+1857237	Credit reporting	Equifax	NV
+1856256	Consumer Loan	GM Financial	AK
+1857808	Credit reporting	Equifax	CA
+1856425	Credit reporting	Equifax	MI
+1855770	Credit reporting	Equifax	AZ
+1856099	Debt collection	"Gold Key Credit, Inc."	NJ
+1856806	Credit reporting	Equifax	GA
+1857763	Debt collection	"Credit Protection Association, L.P."	CA
+1857293	Credit reporting	Equifax	GA
+1856771	Credit reporting	Equifax	NM
+1856890	Credit reporting	Equifax	TN
+1857693	Debt collection	"Convergent Resources, Inc."	NY
+1857339	Credit reporting	Equifax	FL
+1857375	Debt collection	"Hunter Warfield, Inc."	CA
+1857688	Credit reporting	Equifax	TX
+1856177	Credit reporting	Equifax	IL
+1857758	Student loan	Wells Fargo & Company	MT
+1857297	Credit reporting	Equifax	CO
+1857790	Debt collection	"Pressler & Pressler, LLP"	NJ
+1857387	Credit reporting	Equifax	SC
+1856070	Consumer Loan	Leaders Financial Company	NJ
+1856822	Debt collection	"Nationwide Debt Management Solutions, LLC"	TX
+1857451	Credit card	Fifth Third Financial Corporation	FL
+1857611	Credit reporting	Equifax	FL
+1857067	Credit reporting	Equifax	DE
+1857275	Credit reporting	Equifax	FL
+1856053	Credit reporting	Equifax	OR
+1857183	Credit reporting	Equifax	NV
+1857161	Credit reporting	"Fidelity National Information Services, Inc. (FNIS)"	AR
+1856640	Credit card	"Continental Finance Company, LLC"	TX
+1856596	Credit reporting	Equifax	TX
+1857155	Credit reporting	Equifax	NC
+1856621	Debt collection	"NCC Business Services, Inc."	FL
+1857279	Credit reporting	Equifax	TX
+1857722	Credit reporting	Equifax	FL
+1856271	Debt collection	"Capital Management Services, LP"	PA
+1856954	Credit reporting	Equifax	FL
+1856379	Credit reporting	Equifax	FL
+1857306	Debt collection	Southern Management Systems Inc.	TX
+1856285	Debt collection	"AR Resources, Inc."	TX
+1855914	Credit reporting	Equifax	NJ
+1857405	Credit reporting	Equifax	SC
+1857298	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SC
+1857175	Credit reporting	Equifax	SC
+1856356	Credit reporting	Equifax	SC
+1855738	Credit reporting	Equifax	SC
+1856521	Bank account or service	Ally Financial Inc.	LA
+1857715	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SC
+1853695	Credit reporting	Equifax	FL
+1855539	Credit reporting	Equifax	CA
+1854751	Debt collection	ERC	FL
+1854265	Mortgage	Network Capital Funding Corporation	PA
+1855468	Credit reporting	Equifax	CA
+1854315	Credit reporting	Equifax	CA
+1807864	Debt collection	Encore Capital Group	NJ
+1807820	Credit card	JPMorgan Chase & Co.	NY
+1807991	Credit card	Barclays PLC	LA
+1807709	Mortgage	Bank of America	OR
+1807913	Credit card	Citibank	CA
+1807832	Credit card	Discover	LA
+1807699	Mortgage	Wells Fargo & Company	IL
+1807789	Debt collection	Commercial Recovery Systems	FL
+1807772	Credit reporting	Equifax	FL
+1807886	Debt collection	Transworld Systems Inc.	NM
+1807761	Debt collection	"Malcolm S. Gerald and Associates, Inc."	NY
+1807900	Credit reporting	Equifax	GA
+1807792	Credit reporting	Experian	GA
+1807779	Mortgage	Nationstar Mortgage	MO
+1807759	Credit reporting	Experian	GA
+1807787	Credit card	Wells Fargo & Company	CO
+1807995	Debt collection	"Pinnacle Credit Services, LLC"	IL
+1807861	Bank account or service	Bank of America	CA
+1807701	Debt collection	RMP Group Inc.	TX
+1807910	Credit card	Citibank	TX
+1807702	Debt collection	ERC	MO
+1807796	Credit reporting	Equifax	OR
+1807918	Debt collection	"Overton, Russell, Doerr and Donovan, LLP"	NY
+1807777	Bank account or service	Wells Fargo & Company	OH
+1807791	Credit reporting	"TransUnion Intermediate Holdings, Inc."	MO
+1807711	Payday loan	Clarity Services	TX
+1807948	Student loan	"Navient Solutions, Inc."	PA
+1807848	Credit card	HSBC North America Holdings Inc.	CA
+1807875	Credit reporting	Equifax	CA
+1807986	Mortgage	JPMorgan Chase & Co.	VA
+1807887	Credit card	JPMorgan Chase & Co.	CA
+1807800	Mortgage	U.S. Bancorp	MN
+1807907	Debt collection	Wells Fargo & Company	SC
+1807805	Credit reporting	Equifax	CA
+1807821	Credit reporting	Equifax	CT
+1807739	Consumer Loan	Automotive Credit Corporation	IL
+1807901	Mortgage	Nationstar Mortgage	SC
+1807976	Debt collection	Equifax	VA
+1807725	Credit card	Bank of America	NY
+1807728	Mortgage	Citibank	TX
+1807881	Debt collection	JPMorgan Chase & Co.	KY
+1807853	Bank account or service	Capital One	VA
+1807974	Credit reporting	Experian	ME
+1807780	Debt collection	Encore Capital Group	FL
+1807872	Debt collection	Encore Capital Group	NY
+1807703	Credit reporting	Experian	FL
+1807891	Consumer Loan	Ford Motor Credit Company	TX
+1807979	Mortgage	Round Point Mortgage	MA
+1807906	Credit reporting	Equifax	NJ
+1807804	Credit reporting	Experian	FL
+1807696	Credit reporting	"TransUnion Intermediate Holdings, Inc."	SC
+1807992	Credit reporting	Experian	IA
+1807916	Credit reporting	Equifax	SC
+1807844	Debt collection	"I.C. System, Inc."	SC
+1807870	Mortgage	Nationstar Mortgage	IN
+1807811	Credit reporting	Equifax	FL
+1807827	Credit reporting	Experian	SC
+1807801	Credit reporting	"TransUnion Intermediate Holdings, Inc."	FL
+1807781	Consumer Loan	Capital One	MI
+1807809	Debt collection	"Navient Solutions, Inc."	IL
+1807988	Consumer Loan	Wells Fargo & Company	SC
+1807807	Credit card	Capital One	MO
+1807868	Credit reporting	"TransUnion Intermediate Holdings, Inc."	FL
+1807806	Consumer Loan	"Risecredit, LLC"	AL
+1807836	Credit reporting	"TransUnion Intermediate Holdings, Inc."	FL
+1807922	Credit reporting	Experian	FL
+1807802	Mortgage	JPMorgan Chase & Co.	IL
+1807754	Credit card	JPMorgan Chase & Co.	TX
+1807749	Credit reporting	Experian	FL
+1807717	Debt collection	"NCC Business Services, Inc."	GA
+1807970	Debt collection	Ocwen	NC
+1807866	Credit reporting	Experian	FL
+1807911	Mortgage	Nationstar Mortgage	VA
+1807855	Debt collection	GC Services Limited Partnership	MI
+1807803	Credit reporting	Equifax	FL
+1807837	Credit card	Citibank	NJ
+1807961	Debt collection	Suburban Credit Corporation	VA
+1807812	Mortgage	Residential Credit Solutions	CA
+1807903	Debt collection	Sunrise Credit Services Inc.	CA
+1807898	Debt collection	Encore Capital Group	GA
+1807977	Mortgage	Freedom Mortgage	NY
+1807925	Bank account or service	Wells Fargo & Company	CA
+1807989	Mortgage	Rushmore Loan Management Services LLC	PA
+1807950	Mortgage	"Caliber Home Loans, Inc"	CA
+1807721	Student loan	"Navient Solutions, Inc."	TN
+1807957	Debt collection	"Capital Accounts, LLC"	CA
+1807915	Consumer Loan	"Enova International, Inc."	TX
+1807790	Debt collection	Round Two Recovery	WI
+1807434	Consumer Loan	Wells Fargo & Company	CA
+1807459	Credit reporting	Experian	NC
+1807514	Credit card	Citibank	CO
+1807357	Mortgage	Nationstar Mortgage	AZ
+1807640	Other financial service	"Fidelity National Information Services, Inc. (FNIS)"	AR
+1807400	Debt collection	Consumer Collection Management. Inc	MO
+1807372	Debt collection	"Portfolio Recovery Associates, Inc."	FL
+1807573	Credit reporting	Equifax	FL
+1807506	Credit card	Citibank	NY
+1807392	Credit card	JPMorgan Chase & Co.	IL
+1807520	Debt collection	"ResidentCollect, Inc."	FL
