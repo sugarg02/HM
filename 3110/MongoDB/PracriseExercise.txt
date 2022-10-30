@@ -1,0 +1,57 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Practise Exercise MongoDB
+
+
+
+
+
+
+Part 1 
+A. Create a collection called ‘games’. We’re going to put some games in it.
+B. Add 5 games to the database. Give each document the following properties:name, genre, rating (out of 100)
+C. Write a query that returns all the games
+D. Write a query to find one of your games by name without using limit(). 
+E. Write a query that returns the 3 highest rated games.
+F. Update your two favourite games to have two achievements called ‘Game Master’ and ‘Speed Demon’, each under a single key. Use “update”
+G. Write a query that returns all the games that have both the ‘Game Maser’ and the ‘Speed Demon’ achievements.
+H. Write a query that returns only games that have achievements. Not all of your games should have achievements, obviously.
+
+
+Part2
+Write and run the following queries for “movies .json”. 
+1. The movies titled "Gladiator".
+2. The distinct genre values of movies.
+3. The movies of "crime" or "drama" genre.
+4. The list of movies directed by "Hitchcock",display only title and year andsort them by year.
+5. The list of movies where "Cotillard" played.
+6. The movies released between 1967 and 1995.
+7. The list of the movies released between 1967 and 1995, by displaying only title, year, director’s last name sorted by year.
+8. The number of movies by country.
+9. The number of movies by country and actor.
+
+Part 
+Write and run the following queries for “listings.csv”. 
+1. Show exactly two documents from the listings collection in any order 
+2. Choose two hosts (by reffering to their host_id values) who are superhosts (available in the host_is_superhost field), and show all of the listings offered by both of the two hosts. 
+3. Find all the unique host_name values. 
+4. Find all of the places that have more than 2 beds in a neighborhood of your choice (referred to as neighbourhood_group_cleansed in the data file), ordered by review_scores_rating descending. 
+6. Show the number of listings per host. 
+7. Find the average review_scores_rating per neighborhood, and only show the ones above a 95, sorted in descending order of rating
+
+Confidential StackRoute© 	An NIIT Venture 	Page 1 of 2    
+All Information within this document is Intellectual property of StackRoute (NIIT Ltd). No part of this document or the program design or program structure mentioned within can be shared or used within any organization without the permission of StackRoute (NIIT Ltd).
+
